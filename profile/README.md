@@ -63,13 +63,13 @@
 <table width="1000">
     <tbody>
     <tr>
-        <th width="150" align="center" bgcolor="#f8f9fa">이름</th>
+        <th width="150" align="center" bgcolor="#f8f9fa">Name</th>
         <td width="280" align="center">김동현</td>
         <td width="280" align="center">이수진</td>
         <td width="280" align="center">권혁태</td>
     </tr>
     <tr>
-        <th align="center" bgcolor="#f8f9fa">위치</th>
+        <th align="center" bgcolor="#f8f9fa">Position</th>
         <td align="center">
             Backend,<br>
             Frontend,<br>
@@ -88,7 +88,7 @@
         </td>
     </tr>
     <tr>
-        <th align="center" bgcolor="#f8f9fa">깃허브</th>
+        <th align="center" bgcolor="#f8f9fa">GitHub</th>
         <td align="center">
             <a href="https://github.com/ehdgusdl">
                 <img src="https://img.shields.io/badge/ehdgusdl-green?style=social&logo=github"/>
