@@ -36,6 +36,7 @@
 
 
 ## 🛠 System Architecture
+<img width="886" height="507" alt="image" src="https://github.com/user-attachments/assets/4c973269-9a7b-4e56-b6d1-74d4b7df3579" />
 
 
 ## 🔑 ERD
