@@ -36,11 +36,11 @@
 
 
 ## 🛠 System Architecture
-<img width="1111" height="628" alt="image" src="https://github.com/user-attachments/assets/421543e4-e34b-4036-982b-54a1ad600887" />
+<img width="1076" height="607" alt="image" src="https://github.com/user-attachments/assets/a1e779b5-f169-4a85-b26b-0851dfb1023a" />
 
 
 
-## 🔑 ERD
+## 🔑 ERD (수정중)
 <img width="1147" height="664" alt="image" src="https://github.com/user-attachments/assets/d827855a-9aa8-4767-b45f-d37f649553a9" />
 
 
