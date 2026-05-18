@@ -1,7 +1,7 @@
 
 <h2 align="center">🔍단번에🔎</h2>
 
-
+<p align="center">🌐 <a href="https://goseoul.today/">https://goseoul.today/</a></p>
 
 
 ## 📋 Table of Contents
