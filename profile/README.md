@@ -41,8 +41,6 @@
 
 
 
-## 🔑 ERD (수정중)
-<img width="1147" height="664" alt="image" src="https://github.com/user-attachments/assets/d827855a-9aa8-4767-b45f-d37f649553a9" />
 
 
 
